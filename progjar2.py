@@ -48,7 +48,7 @@ message = MIMEMultipart(
 #email credentials
 sender_email = 'keziabtr84@gmail.com'
 receive_email = 'ceciliatania03@gmail.com'
-password = 'Nabilah1111'
+password = 'xxx'
 
 server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
 server.ehlo()
